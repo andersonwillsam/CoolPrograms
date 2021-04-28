@@ -1,3 +1,7 @@
+# Will Anderson
+# Connect 4
+
+# Make sure to install Numpy and Pygame.
 import numpy as np
 import pygame
 import sys
