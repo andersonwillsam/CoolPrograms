@@ -1,6 +1,6 @@
 # Will Anderson
 # 4/11/21
-# Color Game
+# Color Match
 
 # import the modules 
 import tkinter
