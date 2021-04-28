@@ -1,7 +1,6 @@
 # Pong by: Will Anderson
 
 import turtle
-import winsound
 import time
 
 wn = turtle.Screen()
